@@ -49,4 +49,4 @@ Python 3.10+, requests, BeautifulSoup4, openpyxl
 
 ## Автор
 
-Родион Кононов · Telegram: @ваш_ник · Заказать парсер можно через [ссылка на профиль Kwork]
+Родион Кононов · Telegram: @Baratrunz · Заказать парсер можно через [https://www.fl.ru/users/rodion4001/portfolio/]
